@@ -1,0 +1,8 @@
+reports/*.json
+reports/*.log
+reports/*.txt
+*.local.json
+*.local.md
+.DS_Store
+Thumbs.db
+
